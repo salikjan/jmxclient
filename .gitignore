@@ -18,3 +18,4 @@
 /gradle-*.properties
 test-results
 /target/
+/out/
